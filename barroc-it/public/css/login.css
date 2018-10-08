@@ -1,9 +1,18 @@
-@import "https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css";
-.container{
-    display: block;
-    margin: 0 auto;
-    max-width:calc(100% / 3);
+
+
+.card {
+    background-color: darkgrey;
+
+
+
 }
-.login {
-    margin-bottom: 20%;
+body{
+    background-image: url("../img/jumbotron.jpg");
+    background-size: 120% ;
+    background-repeat: no-repeat;
+ 
 }
+
+
+
+
